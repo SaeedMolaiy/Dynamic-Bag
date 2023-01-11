@@ -1,0 +1,8 @@
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\bin\Debug\DynamicBag.exe.config
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\bin\Debug\DynamicBag.exe
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\bin\Debug\DynamicBag.pdb
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\obj\Debug\DynamicBag.csproj.AssemblyReference.cache
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\obj\Debug\DynamicBag.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\obj\Debug\DynamicBag.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\obj\Debug\DynamicBag.exe
+C:\Users\s.molaee\source\repos\DynamicBag\DynamicBag\obj\Debug\DynamicBag.pdb
